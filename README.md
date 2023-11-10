@@ -1,2 +1,3 @@
 # ANSIBLE-PROJECT
-this repo is used to store ansible project codes and architecture
+
+In this Project, I used Ansible to deploy a static web-app on 3 EC2 instances.
